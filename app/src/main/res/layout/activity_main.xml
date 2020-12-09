@@ -9,10 +9,21 @@
 
 
     <EditText
+        android:id="@+id/etUsername"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="@string/enter_text"
+        android:hint="Username"
         android:background="#ffffff"
+        android:layout_centerInParent="true" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_below="@+id/etUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Password"
+        android:background="#ffffff"
+        android:layout_margin="16sp"
         android:layout_centerInParent="true" />
 
 
