@@ -12,7 +12,7 @@
         android:id="@+id/etUsername"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="Username"
+        android:hint="@string/username"
         android:background="#ffffff"
         android:layout_centerInParent="true" />
 
@@ -21,7 +21,7 @@
         android:layout_below="@+id/etUsername"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="Password"
+        android:hint="@string/password"
         android:background="#ffffff"
         android:layout_margin="16sp"
         android:layout_centerInParent="true" />
