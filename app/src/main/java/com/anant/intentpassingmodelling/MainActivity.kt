@@ -21,15 +21,9 @@ class MainActivity : AppCompatActivity() {
 
         val intent = Intent(this, ShowActivity::class.java)
 
-//attach the key value pair using putExtra to this intent
-
-//attach the key value pair using putExtra to this intent
-        val user_name = "Jhon Doe"
+        val user_name = "Alpha"
         intent.putExtra("USER_NAME", user_name)
 
-//starting the activity
-
-//starting the activity
         startActivity(intent)
 
 
