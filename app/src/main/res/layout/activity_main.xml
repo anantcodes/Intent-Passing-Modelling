@@ -26,6 +26,17 @@
         android:layout_margin="16sp"
         android:layout_centerInParent="true" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:background="@android:color/white"
+        android:text="@string/click"/>
+
+
+
 
 
 </RelativeLayout>

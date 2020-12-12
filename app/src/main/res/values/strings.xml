@@ -3,4 +3,5 @@
     <string name="enter_text">Enter text</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
+    <string name="click">Click</string>
 </resources>

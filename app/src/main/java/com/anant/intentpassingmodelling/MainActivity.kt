@@ -8,7 +8,6 @@ import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 
-
     lateinit var etUsername:EditText
     lateinit var etPassword:EditText
 
