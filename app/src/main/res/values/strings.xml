@@ -4,4 +4,5 @@
     <string name="username">Username</string>
     <string name="password">Password</string>
     <string name="click">Click</string>
+    <string name="display_area">Display area</string>
 </resources>
