@@ -34,8 +34,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/btnYes"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="125dp"
-        android:text="@string/dp_yes"/>
+        android:layout_marginTop="20dp"
+        android:text="DP No"/>
 
 
 </RelativeLayout>
