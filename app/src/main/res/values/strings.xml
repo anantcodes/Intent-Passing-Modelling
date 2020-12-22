@@ -5,4 +5,5 @@
     <string name="password">Password</string>
     <string name="click">Click</string>
     <string name="display_area">Display area</string>
+    <string name="dp_yes">DP Yes</string>
 </resources>
