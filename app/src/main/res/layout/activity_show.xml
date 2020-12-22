@@ -26,7 +26,8 @@
         android:layout_below="@+id/txtDp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="125dp"
-        android:text="@string/dp_yes"/>
+        android:text="@string/dp_yes"
+        android:background="@android:color/holo_blue_light"/>
 
     <Button
         android:id="@+id/btnNo"
@@ -35,7 +36,8 @@
         android:layout_below="@+id/btnYes"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:text="@string/dp_no"/>
+        android:text="@string/dp_no"
+        android:background="@android:color/holo_blue_light"/>
 
 
 </RelativeLayout>
