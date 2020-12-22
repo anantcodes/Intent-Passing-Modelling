@@ -35,7 +35,7 @@
         android:layout_below="@+id/btnYes"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:text="DP No"/>
+        android:text="@string/dp_no"/>
 
 
 </RelativeLayout>

@@ -6,4 +6,5 @@
     <string name="click">Click</string>
     <string name="display_area">Display area</string>
     <string name="dp_yes">DP Yes</string>
+    <string name="dp_no">DP No</string>
 </resources>
